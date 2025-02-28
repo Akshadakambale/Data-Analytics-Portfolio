@@ -35,4 +35,4 @@ I am a Data Analyst passionate about transforming raw data into meaningful insig
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/akshada-kambale-ak)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Akshadakambale)
+[![GitHub](https://github.com/Akshadakambale)
